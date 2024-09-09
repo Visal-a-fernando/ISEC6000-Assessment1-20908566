@@ -31,7 +31,7 @@ Interactions and Data Flow:
 
 
 ### Architecture Diagram
-![Architecture Diagram](Saleor Diagram.PNG)
+![Diagram](https://github.com/Visal-a-fernando/ISEC6000-Assessment1-20908566/blob/main/Saleor%20Diagram.PNG)
 
 ### Prerequisites
 Before you start, ensure you have the following tools installed:
