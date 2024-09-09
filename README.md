@@ -31,7 +31,7 @@ Interactions and Data Flow:
 
 
 ### Architecture Diagram
-Will be added later **************
+![Architecture Diagram](/Saleor Diagram.PNG)
 
 ### Prerequisites
 Before you start, ensure you have the following tools installed:
